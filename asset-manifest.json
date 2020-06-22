@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/polyglot/static/css/main.5f361e03.chunk.css",
+    "main.js": "/polyglot/static/js/main.ed360ce8.chunk.js",
+    "main.js.map": "/polyglot/static/js/main.ed360ce8.chunk.js.map",
+    "runtime-main.js": "/polyglot/static/js/runtime-main.3cc1ff58.js",
+    "runtime-main.js.map": "/polyglot/static/js/runtime-main.3cc1ff58.js.map",
+    "static/js/2.a0c31166.chunk.js": "/polyglot/static/js/2.a0c31166.chunk.js",
+    "static/js/2.a0c31166.chunk.js.map": "/polyglot/static/js/2.a0c31166.chunk.js.map",
+    "index.html": "/polyglot/index.html",
+    "precache-manifest.bce1e2c0b163bc78465900eb0d3bd709.js": "/polyglot/precache-manifest.bce1e2c0b163bc78465900eb0d3bd709.js",
+    "service-worker.js": "/polyglot/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/polyglot/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a0c31166.chunk.js.LICENSE.txt": "/polyglot/static/js/2.a0c31166.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/polyglot/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cc1ff58.js",
+    "static/js/2.a0c31166.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ed360ce8.chunk.js"
+  ]
+}
